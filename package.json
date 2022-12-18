@@ -1,0 +1,22 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "API Endpoinds, Paths and Parameters, JSON",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatusyaZira/WeatherProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatusyaZira/WeatherProject/issues"
+  },
+  "homepage": "https://github.com/NatusyaZira/WeatherProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
